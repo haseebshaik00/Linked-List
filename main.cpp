@@ -335,7 +335,7 @@ void concat()
     second=NULL;
 }
 
-mergeit()
+void mergeit()
 {
     create();
     create2();
